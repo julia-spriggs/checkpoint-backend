@@ -1,0 +1,42 @@
+entity: Country
+items:
+  country{1}:
+    code: "US"
+    name: "United States of America"
+    emoji: "🇺🇸"
+  country{2}:
+    code: "FR"
+    name: "France"
+    emoji: "🇫🇷"
+  country{3}:
+    code: "ES"
+    name: "Spain"
+    emoji: "🇪🇸"
+  country{4}:
+    code: "CH"
+    name: "Switzerland"
+    emoji: "🇨🇭"
+  country{5}:
+    code: "GB"
+    name: "United Kingdom of Great Britain and Northern Ireland"
+    emoji: "🇬🇧"
+  country{6}:
+    code: "IT"
+    name: "Italy"
+    emoji: "🇮🇹"
+  country{7}:
+    code: "MX"
+    name: "Mexico"
+    emoji: "🇲🇽"
+  country{8}:
+    code: "IE"
+    name: "Ireland"
+    emoji: "🇮🇪"
+  country{9}:
+    code: "JP"
+    name: "Japan"
+    emoji: "🇯🇵"
+  country{10}:
+    code: "IS"
+    name: "Iceland"
+    emoji: "🇮🇸"
